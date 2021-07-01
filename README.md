@@ -1,7 +1,6 @@
 # Wind-Energy-Prediction
 #### Exploration of the Wind. Forecasting surplus and potential energy in the next 24hours. ####
 
-![image](https://user-images.githubusercontent.com/79764958/109397342-06888980-792e-11eb-81ce-fe4d0215b028.png)
 
 This project aims to provide Machine Learning tools to predict Wind Electricity in the island of Irelang for the next 24 h.
 The goal will be to present predictions every day at 21:00, if and when (what Hours) will the ratio of Wind generated electricity reaches the currently supported maximum (70%): 
@@ -29,6 +28,5 @@ The following Colabs implement loading relevant data from Met.ie and smartgridda
 License
 - Met Éirean data: Copyright Met Éireann, Source www.met.ie , Licence Statement: This data is published under a Creative Commons Attribution 4.0 International (CC BY 4.0).
 - EirGrid Group Data: Supported by EirGrid Group Data, Source: www.smartgriddashboard.com , Open Data Licence.
-- The notebooks, and other documents are released under a CC BY-NC-SA 4.0 license. 
 
 
