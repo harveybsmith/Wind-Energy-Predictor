@@ -8,6 +8,11 @@ The goal will be to present predictions every day at 21:00, if and when (what Ho
 - Compare to predicted demand as per Eirgrid Smartgriddashboard.eirgrid.com 
 - Highlighlight hours where Wind generations is higher than 70% demand: manually set up battery charging for those hours!
 
+Amongst other things, in order to achieve Europe’s plan to cut carbon emissions by at least 55% by 2030, Consumer and Industrial electricity users behavior changes will be required, which is the focus for this project.
+
+ - Industrial users (like Data Centers) can charge batteries for later use.
+ - Consumers can program their electric appliances to run over those hours, for example: 1) Charge an electric car; 2) Launch washing machine with tumble drier; 3) Increase heat pump etc.
+
 The following Colabs implement loading relevant data from Met.ie and smartgriddashboard.eirgrid.com , handle missing data and outliers, merge the data into 1 feature vector, try a few different Machine Learning with relevant feature engineering options, and forecast for the next day!
 
 | File | Purpose |
